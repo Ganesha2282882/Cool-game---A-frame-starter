@@ -1,1 +1,1 @@
-# Cool-game---A-frame-starter
+# Cool game - A-frame starter
